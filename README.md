@@ -1,6 +1,6 @@
 # USB to RS485
 
-This is a project with STM32F0 mC acting as a interface between PC and RS485.
+This is a project with STM32F0 uC acting as a interface between PC and RS485.
 
 Uses:
 * STM32F070C6P
